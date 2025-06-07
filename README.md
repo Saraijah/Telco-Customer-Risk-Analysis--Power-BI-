@@ -9,8 +9,7 @@ Our primary goal was to analyze the factors influencing customer churn and ident
 - **MySQL** – for data cleaning and transformation
 - **Power BI** – for creating dashboards and visual insights
 - **GitHub** – for version control and documentation
-- **Excel** – for exploring and reshaping data when needed
-
+- 
 ---
 
 ## 📎 Power BI Report (Live Link)
